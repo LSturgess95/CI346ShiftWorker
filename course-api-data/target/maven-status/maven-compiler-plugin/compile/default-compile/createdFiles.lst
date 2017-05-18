@@ -1,0 +1,11 @@
+io\lukesturgess\CourseApiDataApplication.class
+io\lukesturgess\shifts\Shift.class
+io\lukesturgess\shifts\ShiftService.class
+io\lukesturgess\HomeController.class
+io\lukesturgess\shifts\ShiftController.class
+io\lukesturgess\shifts\ShiftRepository.class
+io\lukesturgess\workers\DatabaseLoader.class
+io\lukesturgess\workers\Worker.class
+io\lukesturgess\workers\WorkerRepository.class
+io\lukesturgess\workers\WorkerController.class
+io\lukesturgess\workers\WorkerService.class
